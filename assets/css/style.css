@@ -12,7 +12,7 @@
    GENERAL STYLES   
    ============================================================*/
 body {
-   font-family:'Open Sans', sans-serif;
+    font-family:'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 14px;
     color: #000;   
@@ -21,10 +21,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-      font-family:'Open Sans', sans-serif;
+    font-family:'Open Sans', sans-serif;
     font-weight: 500;
-   line-height:40px;
-   
+    line-height:40px;
 }
 
 h1 {
@@ -157,7 +156,7 @@ p {
      color:#cb2027;
 }
 /* ===========================================================
-   BOOTSTRAP ELEMENTS CHANGES   
+   BOOTSTRAP ELEMENTS CHANGES	
    ============================================================*/
 .navbar {
 	font-size: 14px;
